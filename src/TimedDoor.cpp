@@ -1,8 +1,8 @@
 // Copyright 2024 Kistrimova Ekaterina
 
 #include <stdexcept>
-#include <thread> 
-#include <chrono> 
+#include <thread> // NOLINT [build/c++11]
+#include <chrono> // NOLINT [build/c++11]
 
 
 #include "TimedDoor.h"
